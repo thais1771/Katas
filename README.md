@@ -25,9 +25,5 @@ Return true if it is a factor or false if it is not.
 Given three integers a ,b ,c, return the largest number obtained after inserting the following operators and brackets: +, x, ()
 In other words , try every combination of a,b,c with [x+()] , and return the Maximum Obtained
 
-**[Multiply](direccionDocumento)**
-The code does not execute properly. Try to figure out why.
-
-
 **[You only need one](Rank8/youOnlyNeewOne.swift)**
 You will be given an array a and a value x. All you need to do is check whether the provided array contains the value. The type of a and x can be String or Int. Return true if the array contains the value, false if not.
