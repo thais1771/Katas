@@ -14,7 +14,7 @@ The function is not returning the correct values. Can you figure out why?
 The company you work for has just been awarded a contract to build a payment gateway. In order to help move things along, you have volunteered to create a function that will take a float and return the amount formatting in dollars and cents. 
 **39.9 becomes $39.90**
 
-**[Century From Year](direccionDocumento)**
+**[Century From Year](Rank8/centuryYear.swift)**
 The first century spans from the year 1 up to and including the year 100, The second - from the year 101 up to and including the year 200, etc. **Given a year, return the century it is in.**
 
 **[Grasshopper - Check for factor](direccionDocumento)**
