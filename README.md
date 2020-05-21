@@ -1,7 +1,7 @@
 # Katas
 
 [![WarriorProfile Downloads](https://www.codewars.com/users/Thais1771/badges/large)](https://www.codewars.com/users/Thais1771/stats)
-## RANK: 8Kyu
+### RANK: 8Kyu
 **[Find the first non-consecutive number](Rank8/findFirstNonConsecutiveNumber.swift)**
 Your task is to find the first element of an array that is not consecutive.
 By not consecutive we mean not exactly 1 larger than the previous element of the array.
