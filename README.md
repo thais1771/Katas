@@ -10,7 +10,7 @@ E.g. If we have an array [1,2,3,4,6,7,8] then 1 then 2 then 3 then 4 are all con
 **[Get Planet Name By ID](Rank8/getPlanetName.swift)**
 The function is not returning the correct values. Can you figure out why?
 
-**[Dollars and Cents](direccionDocumento)**
+**[Dollars and Cents](Rank8/formatMoney.swift)**
 The company you work for has just been awarded a contract to build a payment gateway. In order to help move things along, you have volunteered to create a function that will take a float and return the amount formatting in dollars and cents. 
 **39.9 becomes $39.90**
 
